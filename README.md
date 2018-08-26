@@ -21,6 +21,7 @@ Personal Aritificial Intelligence Resources List.
 - [cntk](https://github.com/Microsoft/cntk) - An open source deep-learning toolkit.
 - [deepdetect](https://github.com/jolibrain/deepdetect) - It makes state of the art machine learning easy to - work with and integrate into existing applications.
 - [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Open-source, distributed, scientific - computing for the JVM.
+- [fastai](https://github.com/fastai/fastai) - The fast.ai deep learning library, lessons, and tutorials.
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning - algorithms.
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans.
 - [mxnet](https://github.com/apache/incubator-mxnet) - A flexible and efficient library for deep learning.
