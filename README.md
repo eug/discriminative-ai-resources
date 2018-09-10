@@ -72,6 +72,7 @@ Personal Aritificial Intelligence Resources List.
 
 ## Auto Machine Learning
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.
+- [autokeras](https://github.com/jhfjhfj1/autokeras) - Accessible AutoML for deep learning.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn.
 - [diaml](https://github.com/chasedehan/diaml) - Semi-automated machine learning pipelines.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - It is a powerful Automated Machine Learning python - library.
