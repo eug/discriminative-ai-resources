@@ -109,6 +109,7 @@ Personal Aritificial Intelligence Resources List.
 - [seaborn](http://seaborn.pydata.org/) - Statistical data visualization.
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
+-[wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 
 ## Tutorials and Examples
 - [BayesianModelling](https://github.com/markdregan/Bayesian-Modelling-in-Python) - A python tutorial on bayesian modeling techniques.
