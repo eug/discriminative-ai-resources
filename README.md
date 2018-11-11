@@ -56,6 +56,7 @@ Personal Aritificial Intelligence Resources List.
 
 ## Natural Language Processing
 - [dimsum16](https://github.com/jbjorne/DiMSUM2016) - Detecting Minimal Semantic Units and their Meanings - (DiMSUM)
+- [finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 - [mallet](http://mallet.cs.umass.edu/) - It is a Java-based package for machine learning applications to - text.
 - [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
