@@ -62,6 +62,7 @@ Personal Aritificial Intelligence Resources List.
 - [senpy](https://github.com/gsi-upm/senpy) - A sentiment and emotion analysis server in Python.
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text.
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 
 ## Statistical and Probilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global - optimization with gaussian processes.
