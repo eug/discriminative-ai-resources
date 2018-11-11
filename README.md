@@ -48,6 +48,7 @@ Personal Aritificial Intelligence Resources List.
 - [moa](https://github.com/Waikato/moa) - It is an open source framework for Big Data stream mining.
 - [orange3](https://github.com/biolab/orange3) -  Interactive data analysis.
 - [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series - data that has multiple seasonality with linear or non-linear growth.
+- [pycobra](https://github.com/bhargavvader/pycobra) - Python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 - [rep](https://github.com/yandex/rep) - Machine Learning toolbox for Humans.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
 - [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting Library.
