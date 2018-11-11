@@ -105,6 +105,7 @@ Personal Aritificial Intelligence Resources List.
 - [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
 ## Data Visualization
+- [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python.
@@ -115,7 +116,7 @@ Personal Aritificial Intelligence Resources List.
 - [seaborn](http://seaborn.pydata.org/) - Statistical data visualization.
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
--[wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
+- [wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 
 ## Tutorials and Examples
 - [BayesianModelling](https://github.com/markdregan/Bayesian-Modelling-in-Python) - A python tutorial on bayesian modeling techniques.
