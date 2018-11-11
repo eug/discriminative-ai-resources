@@ -60,6 +60,7 @@ Personal Aritificial Intelligence Resources List.
 - [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
 - [senpy](https://github.com/gsi-upm/senpy) - A sentiment and emotion analysis server in Python.
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text.
+- [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
 
 ## Statistical and Probilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global - optimization with gaussian processes.
