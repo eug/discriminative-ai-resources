@@ -59,6 +59,7 @@ Personal Aritificial Intelligence Resources List.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 - [mallet](http://mallet.cs.umass.edu/) - It is a Java-based package for machine learning applications to - text.
 - [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
+- [magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package. 
 - [senpy](https://github.com/gsi-upm/senpy) - A sentiment and emotion analysis server in Python.
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text.
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
