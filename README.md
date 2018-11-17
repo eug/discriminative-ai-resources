@@ -108,6 +108,7 @@ Personal Aritificial Intelligence Resources List.
 - [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
+- [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python.
 - [folium](https://github.com/python-visualization/folium) - Python Data to Leaflet.js Maps.
 - [holoviews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
