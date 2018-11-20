@@ -112,6 +112,7 @@ Personal Aritificial Intelligence Resources List.
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python.
 - [folium](https://github.com/python-visualization/folium) - Python Data to Leaflet.js Maps.
 - [holoviews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
 - [matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python.
 - [seaborn](http://seaborn.pydata.org/) - Statistical data visualization.
