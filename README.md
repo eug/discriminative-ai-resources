@@ -69,6 +69,7 @@ Personal Aritificial Intelligence Resources List.
 
 ## Statistical and Probilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global - optimization with gaussian processes.
+- [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python.
 - [mord](https://github.com/fabianp/mord) - Ordinal regression algorithms.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic - modelling in Python.
