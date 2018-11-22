@@ -57,6 +57,7 @@ Personal Aritificial Intelligence Resources List.
 ## Natural Language Processing
 - [dimsum16](https://github.com/jbjorne/DiMSUM2016) - Detecting Minimal Semantic Units and their Meanings - (DiMSUM)
 - [finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
+- [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 - [gluon](https://github.com/dmlc/gluon-nlp) - NLP made easy.
 - [magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package. 
