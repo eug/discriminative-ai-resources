@@ -109,8 +109,8 @@ Personal Aritificial Intelligence Resources List.
 - [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 
 ## Data Visualization
-- [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+- [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python.
@@ -120,6 +120,7 @@ Personal Aritificial Intelligence Resources List.
 - [matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python.
 - [seaborn](http://seaborn.pydata.org/) - Statistical data visualization.
+- [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects. 
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
 - [wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
