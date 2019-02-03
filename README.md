@@ -142,6 +142,7 @@ Personal Aritificial Intelligence Resources List.
 - [featuretools](https://github.com/featuretools/featuretools) - Automated feature engineering.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python.
 - [gtdata](http://googletrends.github.io/data/) - Download and play with key datasets from Google Trend.
+- [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
 - [mahout](https://github.com/apache/mahout) - It is a distributed linear algebra framework and mathematically expressive Scala DSL.
 - [mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
