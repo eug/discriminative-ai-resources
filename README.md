@@ -96,6 +96,7 @@ Personal Aritificial Intelligence Resources List.
 ## Model Management
 - [cookiecutter-ds](https://github.com/drivendata/cookiecutter-data-science) -  logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [ds-process-management](https://github.com/jeongyoonlee/data-science-process-management) - Resources for Data Science Process management.
+- [dvc](https://github.com/iterative/dvc) - Data & models versioning for ML projects, make them shareable and reproducible.
 - [marvin](https://github.com/marvin-ai/marvin-python-toolbox) - The toolbox helps data scientists to develop, test, and run marvin engines.
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
 
