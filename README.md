@@ -157,6 +157,7 @@ Personal Aritificial Intelligence Resources List.
 - [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems.
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) - Learn Deep Lerning from exciting lectures.
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World) - Organized Resources for Deep Learning Researchers and Developers.
 - [ml4se](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer. 
