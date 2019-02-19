@@ -153,6 +153,7 @@ Personal Aritificial Intelligence Resources List.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+- [umap](https://github.com/lmcinnes/umap) - A dimension reduction technique that can be used for visualisation.
 
 ## Lists
 - [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems.
