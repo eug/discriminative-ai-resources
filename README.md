@@ -41,6 +41,7 @@ Personal Aritificial Intelligence Resources List.
 - [catboost](https://github.com/catboost/catboost) - CatBoost is an open-source gradient boosting library - with categorical features support.
 - [dmtk](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter - Applications.
+- [JSAT](https://github.com/EdwardRaff/JSAT) - Java Statistical Analysis Tool, a Java library for Machine Learning.
 - [libfm](https://github.com/srendle/libfm) - Library for factorization machines.
 - [libffm](https://github.com/guestwalk/libffm) - A Library for Field-aware Factorization Machines.
 - [madlib](https://github.com/apache/madlib) - It is an open-source library for scalable in-database - analytics.
