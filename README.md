@@ -51,6 +51,7 @@ Personal Aritificial Intelligence Resources List.
 - [pycobra](https://github.com/bhargavvader/pycobra) - Python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 - [rep](https://github.com/yandex/rep) - Machine Learning toolbox for Humans.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
+- [shogun](https://github.com/shogun-toolbox/shogun) - Unified and efficient Machine Learning since 1999.
 - [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting Library.
 - [weka](https://svn.cms.waikato.ac.nz/svn/weka/) - It is a collection of machine learning algorithms for data mining tasks.
 
