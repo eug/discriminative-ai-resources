@@ -144,6 +144,7 @@ Personal Aritificial Intelligence Resources List.
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python and R.
 - [featuretools](https://github.com/featuretools/featuretools) - Automated feature engineering.
+- [feature-selector](https://github.com/WillKoehrsen/feature-selector) -  Feature selector is a tool for dimensionality reduction of machine learning datasets.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python.
 - [gtdata](http://googletrends.github.io/data/) - Download and play with key datasets from Google Trend.
 - [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
