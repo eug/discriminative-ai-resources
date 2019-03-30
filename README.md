@@ -72,7 +72,8 @@ Personal Aritificial Intelligence Resources List.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 
 ## Statistical and Probilistic Modelling
-- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global - optimization with gaussian processes.
+- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+- [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python.
 - [mord](https://github.com/fabianp/mord) - Ordinal regression algorithms.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic - modelling in Python.
