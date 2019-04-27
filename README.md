@@ -40,6 +40,7 @@ Personal Aritificial Intelligence Resources List.
 - [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [catboost](https://github.com/catboost/catboost) - CatBoost is an open-source gradient boosting library - with categorical features support.
 - [dmtk](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
+- [fklearn](https://github.com/nubank/fklearn) - Functional Machine Learning.
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter - Applications.
 - [JSAT](https://github.com/EdwardRaff/JSAT) - Java Statistical Analysis Tool, a Java library for Machine Learning.
 - [libfm](https://github.com/srendle/libfm) - Library for factorization machines.
