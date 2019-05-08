@@ -46,6 +46,7 @@ Personal Aritificial Intelligence Resources List.
 - [libfm](https://github.com/srendle/libfm) - Library for factorization machines.
 - [libffm](https://github.com/guestwalk/libffm) - A Library for Field-aware Factorization Machines.
 - [madlib](https://github.com/apache/madlib) - It is an open-source library for scalable in-database - analytics.
+- [mlens](https://github.com/flennerhag/mlens) - ML-Ensemble – high performance ensemble learning.
 - [mllib](https://github.com/apache/spark/tree/master/mllib) - MLlib is Apache Spark's scalable machine - learning library.
 - [moa](https://github.com/Waikato/moa) - It is an open source framework for Big Data stream mining.
 - [orange3](https://github.com/biolab/orange3) -  Interactive data analysis.
