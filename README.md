@@ -114,6 +114,7 @@ Personal Aritificial Intelligence Resources List.
 - [PDPbox](https://github.com/SauceCat/PDPbox) - Python partial dependence plot toolbox.
 - [SHAP](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 - [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
+- [what-if-tool](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/interactive_inference) - Easy-to-use interface for expanding understanding of a black-box classification/regression model.
 
 ## Data Visualization
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
