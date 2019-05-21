@@ -155,6 +155,7 @@ Personal Aritificial Intelligence Resources List.
 - [mahout](https://github.com/apache/mahout) - It is a distributed linear algebra framework and mathematically expressive Scala DSL.
 - [mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
+- [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR).
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis.
