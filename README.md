@@ -86,6 +86,7 @@ Personal Aritificial Intelligence Resources List.
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## Auto Machine Learning
+- [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] for Python.
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.
 - [autokeras](https://github.com/jhfjhfj1/autokeras) - Accessible AutoML for deep learning.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn.
