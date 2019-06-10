@@ -130,6 +130,7 @@ Personal Aritificial Intelligence Resources List.
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python.
 - [seaborn](http://seaborn.pydata.org/) - Statistical data visualization.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects. 
+- [vega](https://github.com/vega/vega) - A visualization grammar.
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
 - [wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
