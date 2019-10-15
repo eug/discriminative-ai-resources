@@ -145,6 +145,7 @@ Personal Aritificial Intelligence Resources List.
 - [MLFromScratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch.
 - [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible.
 - [tf-models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
+- [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 
 ## Misc
 - [datacleaner](https://github.com/rhiever/datacleaner) - A Python tool that automatically cleans data sets and readies them for analysis. 
