@@ -84,6 +84,7 @@ Personal Aritificial Intelligence Resources List.
 - [pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python.
 - [python-mle](https://github.com/ibab/python-mle) - A Python package for performing Maximum Likelihood - Estimates.
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+- [tea-lang](https://github.com/emjun/tea-lang) - DSL for experimental design and statistical analysis.
 
 ## Auto Machine Learning
 - [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning [AutoML] for Python.
