@@ -136,6 +136,7 @@ Personal Aritificial Intelligence Resources List.
 - [wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 
 ## Tutorials and Examples
+- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding.
 - [BayesianModelling](https://github.com/markdregan/Bayesian-Modelling-in-Python) - A python tutorial on bayesian modeling techniques.
 - [ds-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks.
 - [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
