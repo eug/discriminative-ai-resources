@@ -1,6 +1,6 @@
 # ai-resources
 
-Personal Aritificial Intelligence Resources List.
+Personal Artificial Intelligence Resources List.
 
 ## Contents
 * [Deep Learning](#deep-learning)
