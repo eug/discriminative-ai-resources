@@ -135,6 +135,7 @@ Personal Artificial Intelligence Resources List.
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
 
 ## Diagnostic, Inpection or Interpretation
+- [anchor](https://github.com/marcotcr/anchor) - High-Precision Model-Agnostic Explanations.
 - [ann-visualizer](https://github.com/Prodicode/ann-visualizer) - A python library for visualizing Artificial Neural Networks with Keras.
 - [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning) - Opinionated list of resources facilitating model interpretability.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
