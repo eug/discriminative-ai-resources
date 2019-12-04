@@ -134,6 +134,7 @@ Personal Artificial Intelligence Resources List.
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library for building robust production-ready data and analytics pipelines.
 - [lore](https://github.com/instacart/lore) - A python framework to make machine learning approachable.
 - [marvin](https://github.com/marvin-ai/marvin-python-toolbox) - The toolbox helps data scientists to develop, test, and run marvin engines.
+- [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
 
 ## Diagnostic, Inpection or Interpretation
