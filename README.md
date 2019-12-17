@@ -130,6 +130,7 @@ Personal Artificial Intelligence Resources List.
 - [cookiecutter-ds](https://github.com/drivendata/cookiecutter-data-science) - Logical and flexible project structure for doing and sharing data science work.
 - [ds-process-management](https://github.com/jeongyoonlee/data-science-process-management) - Resources for Data Science Process management.
 - [dvc](https://github.com/iterative/dvc) - Data & models versioning for ML projects, make them shareable and reproducible.
+- [firefly](https://github.com/rorodata/firefly) - Function as a service.
 - [hopsworks](https://github.com/logicalclocks/hopsworks) - Full-stack platform for scale-out data science.
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library for building robust production-ready data and analytics pipelines.
 - [lore](https://github.com/instacart/lore) - A python framework to make machine learning approachable.
