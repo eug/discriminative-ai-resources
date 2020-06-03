@@ -6,6 +6,7 @@ Personal Artificial Intelligence Resources List.
 * [Deep Learning](#deep-learning)
 * [General Purpose Machine Learning](#general-purpose-machine-learning)
 * [Natural Language Processing](#natural-language-processing)
+* [Time Series Forecasting](#time-series-forecasting)
 * [Statistical and Probilistic Modelling](#statistical-and-probilistic-modelling)
 * [Auto Machine Learning](#auto-machine-learning)
 * [Feature Engineering](#feature-engineering)
@@ -57,7 +58,6 @@ Personal Artificial Intelligence Resources List.
 - [mllib](https://github.com/apache/spark/tree/master/mllib) - MLlib is Apache Spark's scalable machine learning library.
 - [moa](https://github.com/Waikato/moa) - It is an open source framework for Big Data stream mining.
 - [orange3](https://github.com/biolab/orange3) -  Interactive data analysis.
-- [prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model.
 - [pycobra](https://github.com/bhargavvader/pycobra) - Python library implementing ensemble methods and visualisation tools including Voronoi tesselations.
 - [pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 - [rep](https://github.com/yandex/rep) - Machine Learning toolbox for Humans.
@@ -86,6 +86,13 @@ Personal Artificial Intelligence Resources List.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network on any text dataset.
 - [word2vec](https://github.com/danielfrg/word2vec) - Python interface to Google word2vec.
 
+## Time Series Forecasting
+- [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series analysis for Python.
+- [prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model.
+- [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+- [scikit-hts](https://github.com/carlomazzaferro/scikit-hts) - Hierarchical time series forecasting for humans.
+- [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+
 ## Statistical and Probilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [dowhy](https://github.com/microsoft/dowhy) - A Python library for causal inference that supports explicit modeling and testing of causal assumptions.
@@ -94,7 +101,6 @@ Personal Artificial Intelligence Resources List.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python.
 - [mord](https://github.com/fabianp/mord) - Ordinal regression algorithms.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
-- [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 - [pyglmnet](https://github.com/glm-tools/pyglmnet) - Python implementation of elastic-net regularized generalized linear models.
 - [pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python.
 - [python-mle](https://github.com/ibab/python-mle) - A Python package for performing Maximum Likelihood Estimates.
@@ -187,7 +193,6 @@ Personal Artificial Intelligence Resources List.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
 - [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis.
-- [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 
 ## Tutorials and Examples
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding.
