@@ -91,7 +91,9 @@ Personal Artificial Intelligence Resources List.
 - [prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model.
 - [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 - [scikit-hts](https://github.com/carlomazzaferro/scikit-hts) - Hierarchical time series forecasting for humans.
+- [statsmodels.tsa](https://github.com/statsmodels/statsmodels) - Time Series analysis from statsmodels package.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+
 
 ## Statistical and Probilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
