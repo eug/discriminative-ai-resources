@@ -174,6 +174,7 @@ Personal Artificial Intelligence Resources List.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [seaborn](http://seaborn.pydata.org/) - Statistical data visualization.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects. 
+- [streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
