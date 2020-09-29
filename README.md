@@ -111,6 +111,7 @@ Personal Artificial Intelligence Resources List.
 - [tea-lang](https://github.com/emjun/tea-lang) - DSL for experimental design and statistical analysis.
 
 ## Auto Machine Learning
+- [adanet](https://github.com/tensorflow/adanet) - AdaNet is a lightweight TensorFlow-based framework for AutoML.
 - [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning AutoML for Python.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn.
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.
