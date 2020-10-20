@@ -7,7 +7,7 @@ Personal Artificial Intelligence Resources List.
 * [General Purpose Machine Learning](#general-purpose-machine-learning)
 * [Natural Language Processing](#natural-language-processing)
 * [Time Series Forecasting](#time-series-forecasting)
-* [Statistical and Probilistic Modelling](#statistical-and-probilistic-modelling)
+* [Statistical and Probabilistic Modelling](#statistical-and-probabilistic-modelling)
 * [Auto Machine Learning](#auto-machine-learning)
 * [Feature Engineering](#feature-engineering)
 * [Model Management](#model-management)
@@ -95,7 +95,7 @@ Personal Artificial Intelligence Resources List.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 
 
-## Statistical and Probilistic Modelling
+## Statistical and Probabilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [dowhy](https://github.com/microsoft/dowhy) - A Python library for causal inference that supports explicit modeling and testing of causal assumptions.
 - [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow.
