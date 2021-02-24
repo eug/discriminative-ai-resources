@@ -152,6 +152,7 @@ Personal Artificial Intelligence Resources List.
 - [ann-visualizer](https://github.com/Prodicode/ann-visualizer) - A python library for visualizing Artificial Neural Networks with Keras.
 - [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning) - Opinionated list of resources facilitating model interpretability.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
+- [explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards.
 - [interpret](https://github.com/microsoft/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.
 - [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
