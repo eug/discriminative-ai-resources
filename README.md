@@ -3,6 +3,7 @@
 Personal Artificial Intelligence Resources List.
 
 ## Contents
+* [Pre-Trained Models](#pre-trained-models)
 * [Deep Learning](#deep-learning)
 * [General Purpose Machine Learning](#general-purpose-machine-learning)
 * [Natural Language Processing](#natural-language-processing)
@@ -16,6 +17,23 @@ Personal Artificial Intelligence Resources List.
 * [Misc](#misc)
 * [Tutorials and Examples](#tutorials-and-examples)
 * [Lists](#lists)
+
+## Pre-Trained Models
+- [audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
+- [awesome-deeplearning](https://endymecy.github.io/awesome-deeplearning-resources/pre_trained.html) - Pre-trained models from the awesome-deeplearning repository.
+- [coreml-models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+).
+- [cv-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
+- [efficientnet-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2.
+- [huggingface](https://huggingface.co/models) - Browse the model hub to discover, experiment and contribute to new state of the art models.
+- [layout-parser](https://github.com/Layout-Parser/layout-parser) - A unified toolkit for Deep Learning Based Document Image Analysis.
+- [mmf](https://mmf.sh/docs/notes/pretrained_models) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [modelzoo](https://modelzoo.co) - Models and code that perform audio processing, speech synthesis, and other audio related tasks.
+- [nlp-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
+- [nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples.
+- [openvino](https://docs.openvinotoolkit.org/latest/omz_models_group_intel.html) - Pre-trained Deep Learning models and demos (high quality and extremely fast).
+- [pyannote-audio](https://github.com/pyannote/pyannote-audio-hub) - Neural building blocks for speaker and speech detection.
+- [stylegan](https://github.com/justinpinkney/awesome-pretrained-stylegan) - A collection of pre-trained StyleGAN models to download.
+- [tfhub](https://tfhub.dev/) - Search and discover hundreds of trained, ready-to-deploy machine learning models.
 
 ## Deep Learning
 - [amazon-dsstne](https://github.com/amzn/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine.
@@ -122,9 +140,10 @@ Personal Artificial Intelligence Resources List.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - It is a powerful Automated Machine Learning python library.
 - [onepanel-automl](https://github.com/onepanelio/automl) - Onepanel AutoML.
 - [optuna](https://github.com/pfnet/optuna) - A hyperparameter optimization framework.
+- [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.
 - [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
 - [TPOT](https://github.com/EpistasisLab/tpot) - Tree-Based Pipeline Optimization Tool.
-- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) -  Automated machine learning for structured data. 
+- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - Automated machine learning for structured data. 
 - [xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for automated hyperparameter tuning and stacked ensembling in Python.
 
 ## Feature Engineering
