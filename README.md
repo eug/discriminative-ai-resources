@@ -31,6 +31,7 @@ Personal Artificial Intelligence Resources List.
 - [nlp-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples.
 - [openvino](https://docs.openvinotoolkit.org/latest/omz_models_group_intel.html) - Pre-trained Deep Learning models and demos (high quality and extremely fast).
+- [PaddlePaddle](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio-hub) - Neural building blocks for speaker and speech detection.
 - [stylegan](https://github.com/justinpinkney/awesome-pretrained-stylegan) - A collection of pre-trained StyleGAN models to download.
 - [tfhub](https://tfhub.dev/) - Search and discover hundreds of trained, ready-to-deploy machine learning models.
