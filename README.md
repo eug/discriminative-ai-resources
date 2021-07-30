@@ -243,3 +243,4 @@ Personal Artificial Intelligence Resources List.
 - [ml4se](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer. 
 - [ossu-data-science](https://github.com/ossu/data-science) - Path to a free self-taught education in Data Science!
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource.
+- [OCEANIS](https://ethicsstandards.org/repository/) - List of AI and Autonomous and Intelligent Systems standards and standards in progress.
