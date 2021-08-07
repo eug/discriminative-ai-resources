@@ -108,6 +108,7 @@ Personal Artificial Intelligence Resources List.
 - [word2vec](https://github.com/danielfrg/word2vec) - Python interface to Google word2vec.
 
 ## Time Series Forecasting
+- [auto-ts](https://github.com/AutoViML/Auto_TS) - Automatically build models on time series datasets with a single Line of code.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series analysis (including auto arima) for Python.
 - [prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model.
 - [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
