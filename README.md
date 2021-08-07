@@ -107,13 +107,17 @@ Personal Artificial Intelligence Resources List.
 - [word2vec](https://github.com/danielfrg/word2vec) - Python interface to Google word2vec.
 
 ## Time Series Forecasting
-- [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series analysis for Python.
+- [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series analysis (including auto arima) for Python.
 - [prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model.
 - [pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+- [pysts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification.
 - [scikit-hts](https://github.com/carlomazzaferro/scikit-hts) - Hierarchical time series forecasting for humans.
+- [sktime-dl](https://github.com/sktime/sktime-dl) - A sktime companion package for deep learning based on TensorFlow.
+- [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series.
 - [statsmodels.tsa](https://github.com/statsmodels/statsmodels) - Time Series analysis from statsmodels package.
+- [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis.
+- [tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Pytorch fastai.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
-
 
 ## Statistical and Probabilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
@@ -204,7 +208,6 @@ Personal Artificial Intelligence Resources List.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
 - [wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
 
-
 ## Misc
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python and R.
@@ -219,7 +222,6 @@ Personal Artificial Intelligence Resources List.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR).
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-- [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis.
 
 ## Tutorials and Examples
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding.
