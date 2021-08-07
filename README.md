@@ -14,6 +14,7 @@ Personal Artificial Intelligence Resources List.
 * [Model Management](#model-management)
 * [Diagnostic, Inpection or Interpretation](#diagnostic-inpection-or-interpretation)
 * [Data Visualization](#data-visualization)
+* [Auto Data Visualization](#auto-data-visualization)
 * [Misc](#misc)
 * [Tutorials and Examples](#tutorials-and-examples)
 * [Lists](#lists)
