@@ -208,6 +208,14 @@ Personal Artificial Intelligence Resources List.
 - [vispy](https://github.com/vispy/vispy) - Interactive scientific visualization that is designed to be fast, scalable, and easy to use.
 - [wordcloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
 
+## Auto Data Visualization
+- [AutoViz](https://github.com/AutoViML/AutoViz) - Automatically visualize any dataset, any size with a single line of code.
+- [dataprep](https://github.com/sfu-db/dataprep) - The easiest way to prepare data in Python.
+- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures.
+- [PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames.
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
+- [sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
+
 ## Misc
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python and R.
@@ -217,7 +225,6 @@ Personal Artificial Intelligence Resources List.
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code with zero dependencies 
 - [mahout](https://github.com/apache/mahout) - It is a distributed linear algebra framework and mathematically expressive Scala DSL.
 - [mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
-- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 - [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - The easy way to write your own flavor of Pandas.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR).
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
