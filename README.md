@@ -33,6 +33,7 @@ Personal Artificial Intelligence Resources List.
 - [nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples.
 - [openvino](https://docs.openvinotoolkit.org/latest/omz_models_group_intel.html) - Pre-trained Deep Learning models and demos (high quality and extremely fast).
 - [PaddlePaddle](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio-hub) - Neural building blocks for speaker and speech detection.
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights
 - [stylegan](https://github.com/justinpinkney/awesome-pretrained-stylegan) - A collection of pre-trained StyleGAN models to download.
@@ -145,6 +146,7 @@ Personal Artificial Intelligence Resources List.
 - [autokeras](https://github.com/jhfjhfj1/autokeras) - Accessible AutoML for deep learning.
 - [automl-gs](https://github.com/minimaxir/automl-gs) - AutoML tool that offers a zero code/model definition interface to getting an optimized model.
 - [diaml](https://github.com/chasedehan/diaml) - Semi-automated machine learning pipelines.
+- [FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
 - [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train deep learning models without coding.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - It is a powerful Automated Machine Learning python library.
 - [onepanel-automl](https://github.com/onepanelio/automl) - Onepanel AutoML.
