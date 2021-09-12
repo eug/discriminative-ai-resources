@@ -166,6 +166,7 @@ Personal Artificial Intelligence Resources List.
 - [umap](https://github.com/lmcinnes/umap) - A dimension reduction technique that can be used for visualisation.
 
 ## Model Management
+- [BentoML](https://github.com/bentoml/BentoML) - Model serving made easy.
 - [cookiecutter-ds](https://github.com/drivendata/cookiecutter-data-science) - Logical and flexible project structure for doing and sharing data science work.
 - [ds-process-management](https://github.com/jeongyoonlee/data-science-process-management) - Resources for Data Science Process management.
 - [dvc](https://github.com/iterative/dvc) - Data & models versioning for ML projects, make them shareable and reproducible.
