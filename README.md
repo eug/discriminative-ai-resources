@@ -91,8 +91,10 @@ Personal Artificial Intelligence Resources List.
 ## Natural Language Processing
 - [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [anago](https://github.com/Hironsan/anago) - A Python library for sequence labeling implemented in Keras.
+- [CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [dimsum16](https://github.com/jbjorne/DiMSUM2016) - Detecting Minimal Semantic Units and their Meanings - (DiMSUM).
 - [finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
+- [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art NLP.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
@@ -101,10 +103,14 @@ Personal Artificial Intelligence Resources List.
 - [magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package. 
 - [mallet](http://mallet.cs.umass.edu/) - It is a Java-based package for machine learning applications to text.
 - [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
+- [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, NLP, ML, network analysis and viz.
+- [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 - [rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text- and voice-based conversations.
 - [senpy](https://github.com/gsi-upm/senpy) - A sentiment and emotion analysis server in Python.
 - [snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text.
+- [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python.
 - [textacy](https://github.com/chartbeat-labs/textacy) - A Python library for performing a variety of NLP tasks.
+- [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing. 
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network on any text dataset.
 - [word2vec](https://github.com/danielfrg/word2vec) - Python interface to Google word2vec.
 
