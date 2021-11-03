@@ -151,6 +151,7 @@ Personal Artificial Intelligence Resources List.
 - [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning AutoML for Python.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn.
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for analytics & production.
+- [autogluon](https://github.com/awslabs/autogluon) - AutoML for Text, Image, and Tabular Data.
 - [autokeras](https://github.com/jhfjhfj1/autokeras) - Accessible AutoML for deep learning.
 - [automl-gs](https://github.com/minimaxir/automl-gs) - AutoML tool that offers a zero code/model definition interface to getting an optimized model.
 - [diaml](https://github.com/chasedehan/diaml) - Semi-automated machine learning pipelines.
@@ -170,6 +171,7 @@ Personal Artificial Intelligence Resources List.
 - [datacleaner](https://github.com/rhiever/datacleaner) - A Python tool that automatically cleans data sets and readies them for analysis. 
 - [feature-selector](https://github.com/WillKoehrsen/feature-selector) - Feature selector is a tool for dimensionality reduction of machine learning datasets.
 - [featuretools](https://github.com/featuretools/featuretools) - Automated feature engineering.
+- [gokinjo](https://github.com/momijiame/gokinjo) - A feature extraction library based on k-nearest neighbor algorithm in Python.
 - [hypertools](https://github.com/ContextLab/hypertools) - A Python toolbox for gaining geometric insights into high-dimensional data.
 - [umap](https://github.com/lmcinnes/umap) - A dimension reduction technique that can be used for visualisation.
 
