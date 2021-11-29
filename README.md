@@ -137,6 +137,7 @@ Personal Artificial Intelligence Resources List.
 - [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python.
+- [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - Lifetime value in Python.
 - [mord](https://github.com/fabianp/mord) - Ordinal regression algorithms.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
 - [pyglmnet](https://github.com/glm-tools/pyglmnet) - Python implementation of elastic-net regularized generalized linear models.
