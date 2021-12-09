@@ -70,10 +70,11 @@ Personal Artificial Intelligence Resources List.
 - [fklearn](https://github.com/nubank/fklearn) - Functional Machine Learning.
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning.
+- [imodels](https://github.com/csinva/imodels) - Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling.
 - [JSAT](https://github.com/EdwardRaff/JSAT) - Java Statistical Analysis Tool, a Java library for Machine Learning.
 - [libffm](https://github.com/guestwalk/libffm) - A Library for Field-aware Factorization Machines.
 - [libfm](https://github.com/srendle/libfm) - Library for factorization machines.
-- [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting framework based on decision tree algorithms.
+- [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting based on decision tree algorithms.
 - [madlib](https://github.com/apache/madlib) - It is an open-source library for scalable in-database analytics.
 - [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric learning algorithms in Python.
 - [mlens](https://github.com/flennerhag/mlens) - ML-Ensemble – high performance ensemble learning.
