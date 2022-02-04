@@ -237,6 +237,7 @@ Personal Artificial Intelligence Resources List.
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python and R.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python.
+- [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Python 3 library for building the genetic algorithm and training machine learning algorithms.
 - [gtdata](http://googletrends.github.io/data/) - Download and play with key datasets from Google Trend.
 - [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code with zero dependencies 
