@@ -22,6 +22,7 @@ Personal Artificial Intelligence Resources List.
 ## Pre-Trained Models
 - [audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
 - [awesome-deeplearning](https://endymecy.github.io/awesome-deeplearning-resources/pre_trained.html) - Pre-trained models from the awesome-deeplearning repository.
+- [camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs.
 - [coreml-models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+).
 - [cv-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
 - [efficientnet-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2.
@@ -37,7 +38,9 @@ Personal Artificial Intelligence Resources List.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio-hub) - Neural building blocks for speaker and speech detection.
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights
 - [stylegan](https://github.com/justinpinkney/awesome-pretrained-stylegan) - A collection of pre-trained StyleGAN models to download.
+- [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files.
 - [tfhub](https://tfhub.dev/) - Search and discover hundreds of trained, ready-to-deploy machine learning models.
+
 
 ## Deep Learning
 - [amazon-dsstne](https://github.com/amzn/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine.
