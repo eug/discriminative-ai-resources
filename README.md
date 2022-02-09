@@ -236,6 +236,7 @@ Personal Artificial Intelligence Resources List.
 ## Misc
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python and R.
+- [ft-visual-vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) - The core of a newsroom-wide training session aimed at improving chart literacy.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python.
 - [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Python 3 library for building the genetic algorithm and training machine learning algorithms.
 - [gtdata](http://googletrends.github.io/data/) - Download and play with key datasets from Google Trend.
@@ -247,6 +248,7 @@ Personal Artificial Intelligence Resources List.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR).
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+
 
 ## Tutorials and Examples
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding.
