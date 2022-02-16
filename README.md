@@ -238,6 +238,7 @@ Personal Artificial Intelligence Resources List.
 - [sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 
 ## DataFrame Libraries
+- [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 - [datatables](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures.
 - [vaex](https://vaex.io/docs/index.html) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python.
