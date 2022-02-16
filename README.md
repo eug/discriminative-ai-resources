@@ -15,6 +15,7 @@ Personal Artificial Intelligence Resources List.
 * [Diagnostic, Inpection or Interpretation](#diagnostic-inpection-or-interpretation)
 * [Data Visualization](#data-visualization)
 * [Auto Data Visualization](#auto-data-visualization)
+* [DataFrame Libraries](#dataframe-libraries)
 * [Misc](#misc)
 * [Tutorials and Examples](#tutorials-and-examples)
 * [Lists](#lists)
@@ -63,7 +64,6 @@ Personal Artificial Intelligence Resources List.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable - machine learning.
 - [tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility.
 - [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
-
 
 ## General Purpose Machine Learning
 - [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
@@ -214,6 +214,7 @@ Personal Artificial Intelligence Resources List.
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python.
 - [folium](https://github.com/python-visualization/folium) - Python Data to Leaflet.js Maps.
+- [ft-visual-vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) - The core of a newsroom-wide training session aimed at improving chart literacy.
 - [holoviews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
 - [matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
@@ -236,10 +237,18 @@ Personal Artificial Intelligence Resources List.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 - [sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 
+## DataFrame Libraries
+- [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
+- [datatables](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures.
+- [vaex](https://vaex.io/docs/index.html) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python.
+- [pandas](https://pandas.pydata.org/) - Fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
+- [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - The easy way to write your own flavor of Pandas.
+- [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
+- [terality](https://docs.terality.com/) -  Serverless data processing engine.
+
 ## Misc
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python and R.
-- [ft-visual-vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) - The core of a newsroom-wide training session aimed at improving chart literacy.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python.
 - [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Python 3 library for building the genetic algorithm and training machine learning algorithms.
 - [gtdata](http://googletrends.github.io/data/) - Download and play with key datasets from Google Trend.
@@ -247,11 +256,8 @@ Personal Artificial Intelligence Resources List.
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code with zero dependencies 
 - [mahout](https://github.com/apache/mahout) - It is a distributed linear algebra framework and mathematically expressive Scala DSL.
 - [mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
-- [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - The easy way to write your own flavor of Pandas.
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR).
-- [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-
 
 ## Tutorials and Examples
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding.
