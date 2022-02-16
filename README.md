@@ -241,11 +241,13 @@ Personal Artificial Intelligence Resources List.
 - [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 - [datatables](https://github.com/h2oai/datatable) - A Python package for manipulating 2-dimensional tabular data structures.
-- [vaex](https://vaex.io/docs/index.html) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python.
+- [modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 - [pandas](https://pandas.pydata.org/) - Fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
 - [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - The easy way to write your own flavor of Pandas.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [terality](https://docs.terality.com/) -  Serverless data processing engine.
+- [vaex](https://vaex.io/docs/index.html) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python.
+
 
 ## Misc
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
