@@ -150,6 +150,7 @@ Personal Artificial Intelligence Resources List.
 - [RoBo](https://github.com/automl/RoBO) - A Robust Bayesian Optimization framework.
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [tea-lang](https://github.com/emjun/tea-lang) - DSL for experimental design and statistical analysis.
+- [pingouin](https://pingouin-stats.org/) - Statistical package in Python based on Pandas.
 
 ## Auto Machine Learning
 - [adanet](https://github.com/tensorflow/adanet) - AdaNet is a lightweight TensorFlow-based framework for AutoML.
