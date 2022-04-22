@@ -183,6 +183,7 @@ Personal Artificial Intelligence Resources List.
 
 ## Model Management
 - [BentoML](https://github.com/bentoml/BentoML) - Model serving made easy.
+- [cog](https://github.com/replicate/cog) - Containers for machine learning.
 - [cookiecutter-ds](https://github.com/drivendata/cookiecutter-data-science) - Logical and flexible project structure for doing and sharing data science work.
 - [ds-process-management](https://github.com/jeongyoonlee/data-science-process-management) - Resources for Data Science Process management.
 - [dvc](https://github.com/iterative/dvc) - Data & models versioning for ML projects, make them shareable and reproducible.
