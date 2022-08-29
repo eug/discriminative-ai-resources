@@ -67,6 +67,7 @@ Personal Artificial Intelligence Resources List.
 
 ## General Purpose Machine Learning
 - [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
+- [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [catboost](https://github.com/catboost/catboost) - An open-source gradient boosting library with categorical features support.
 - [dmtk](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 - [fastFM](https://github.com/ibayer/fastFM) - fastFM: A Library for Factorization Machines.
