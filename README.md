@@ -138,6 +138,7 @@ Personal Artificial Intelligence Resources List.
 ## Statistical and Probabilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [causalnex](https://github.com/quantumblacklabs/causalnex) - Helps data scientists to infer causation rather than observing correlation.
+- [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations.
 - [dowhy](https://github.com/microsoft/dowhy) - A Python library for causal inference that supports explicit modeling and testing of causal assumptions.
 - [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API.
