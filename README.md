@@ -135,6 +135,9 @@ Personal Artificial Intelligence Resources List.
 - [tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Pytorch fastai.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 
+## Causal Inference
+- [EconML](https://github.com/microsoft/EconML) - Automated Learning and Intelligence for Causation and Economics.
+
 ## Statistical and Probabilistic Modelling
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations.
