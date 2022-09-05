@@ -8,6 +8,7 @@ Personal Artificial Intelligence Resources List.
 * [General Purpose Machine Learning](#general-purpose-machine-learning)
 * [Natural Language Processing](#natural-language-processing)
 * [Time Series Forecasting](#time-series-forecasting)
+* [Causal Inference](#causal-inference)
 * [Statistical and Probabilistic Modelling](#statistical-and-probabilistic-modelling)
 * [Auto Machine Learning](#auto-machine-learning)
 * [Feature Engineering](#feature-engineering)
@@ -136,14 +137,14 @@ Personal Artificial Intelligence Resources List.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 
 ## Causal Inference
-- [EconML](https://github.com/microsoft/EconML) - Automated Learning and Intelligence for Causation and Economics.
-
-## Statistical and Probabilistic Modelling
-- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [causallib](https://github.com/IBM/causallib) - Modular causal inference analysis and model evaluations.
 - [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms.
 - [causalnex](https://github.com/quantumblacklabs/causalnex) - Helps data scientists to infer causation rather than observing correlation.
 - [dowhy](https://github.com/microsoft/dowhy) - A Python library for causal inference that supports explicit modeling and testing of causal assumptions.
+- [EconML](https://github.com/microsoft/EconML) - Automated Learning and Intelligence for Causation and Economics.
+
+## Statistical and Probabilistic Modelling
+- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models in Python, with scikit-learn like API.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python.
