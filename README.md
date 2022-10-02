@@ -42,7 +42,7 @@ Personal Artificial Intelligence Resources List.
 - [stylegan](https://github.com/justinpinkney/awesome-pretrained-stylegan) - A collection of pre-trained StyleGAN models to download.
 - [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files.
 - [tfhub](https://tfhub.dev/) - Search and discover hundreds of trained, ready-to-deploy machine learning models.
-
+- [unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 
 ## Deep Learning
 - [amazon-dsstne](https://github.com/amzn/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine.
