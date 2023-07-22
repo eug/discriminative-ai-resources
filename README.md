@@ -1,6 +1,6 @@
-# ai-resources
+# discriminative-ai-resources
 
-Personal Artificial Intelligence Resources List.
+Personal Discriminative Artificial Intelligence Resources List.
 
 ## Contents
 * [Pre-Trained Models](#pre-trained-models)
@@ -172,6 +172,7 @@ Personal Artificial Intelligence Resources List.
 - [FLAML](https://github.com/microsoft/FLAML) - A fast and lightweight AutoML library.
 - [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train deep learning models without coding.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - It is a powerful Automated Machine Learning python library.
+- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle.
 - [onepanel-automl](https://github.com/onepanelio/automl) - Onepanel AutoML.
 - [optuna](https://github.com/pfnet/optuna) - A hyperparameter optimization framework.
 - [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.
