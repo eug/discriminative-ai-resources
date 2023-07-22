@@ -203,6 +203,7 @@ Personal Discriminative Artificial Intelligence Resources List.
 - [marvin](https://github.com/marvin-ai/marvin-python-toolbox) - The toolbox helps data scientists to develop, test, and run marvin engines.
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
+- [neptune](https://neptune.ai/) - Log, organize, compare, register, and share all your ML model metadata in a single place.
 
 ## Diagnostic, Inpection or Interpretation
 - [anchor](https://github.com/marcotcr/anchor) - High-Precision Model-Agnostic Explanations.
